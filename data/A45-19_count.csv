@@ -1,0 +1,4 @@
+name,count,area,monotone_count,monotone_area,over_pixel_count,over_pixel_area,satisfied_count,satisfied_area
+ハンノキ,611,3166.539999999997,345,687.72,601,3165.9099999999967,336,687.14
+ウルシ,40,127.85,36,108.7,40,127.85,36,108.7
+天アカマツ,28,99.61,2,0.4,27,99.55,1,0.34

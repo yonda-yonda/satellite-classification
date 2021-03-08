@@ -1,0 +1,6 @@
+__pycache__
+.venv
+.vscode
+temp
+src
+data/A45-19*.geojson
